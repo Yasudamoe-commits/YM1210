@@ -1,6 +1,6 @@
-package Sample;
+package sample;
 
-public class selfIntroduction {
+public class SelfIntroduction {
 
 	public static void main(String[] args) {
 		// 安田　萌
