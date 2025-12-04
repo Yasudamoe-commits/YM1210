@@ -1,6 +1,6 @@
-package sample;
+package Sample;
 
-public class SelfIntroduction {
+public class selfIntroduction {
 
 	public static void main(String[] args) {
 		// 安田　萌
@@ -11,7 +11,7 @@ public class SelfIntroduction {
 		String hobby ="映画鑑賞";
 		
 		/*
-		 * 自己紹介を出力する処理
+
 		 */
 	
 		System.out.println("私の名前" + name + "です。");
