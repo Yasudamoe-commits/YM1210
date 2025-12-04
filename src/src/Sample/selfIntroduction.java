@@ -18,7 +18,8 @@ public class selfIntroduction {
 		System.out.println("年齢は" + age + "歳です。");
 		System.out.println("趣味は" + hobby + "です。");
 		
-		// TODO 自動生成されたメソッド・スタブ
+		
+		
 
 	}
 
